@@ -2,6 +2,6 @@
 
 Este é um reposiorio teste.
 
-[Google](htt://google.com)
+[Google](http:///google.com)
 
 Mais uma linha legal de alteracao.
